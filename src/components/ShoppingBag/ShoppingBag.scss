@@ -1,0 +1,28 @@
+.shopping-bag-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-info {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .product-image {
+    margin-right: 20px;
+  }
+  
+  .product-image img {
+    max-width: 80px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .carrito-buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  

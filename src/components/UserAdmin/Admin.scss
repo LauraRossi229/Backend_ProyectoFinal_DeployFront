@@ -1,0 +1,26 @@
+// Assuming your table has a class name of "user-table"
+.user-table {
+    width:fit-content;
+    border-collapse: collapse;
+    margin-left: 30rem; // Add some top margin for spacing
+    align-items: center;
+   align-content: center;
+;   flex-flow: column;
+    
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+  
+    th {
+      background-color: #f2f2f2;
+    }
+  }
+// Your existing styles...
+
+.center-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; // Adjust margin as needed
+  }

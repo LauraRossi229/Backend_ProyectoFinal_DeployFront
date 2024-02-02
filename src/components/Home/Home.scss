@@ -1,0 +1,25 @@
+// estilos.scss
+
+// Cambiar el color del texto a rojo
+h1 {
+    color: rgb(38, 0, 255);
+  }
+  
+  // Cambiar el tamaño del texto a 2em (el doble del tamaño normal)
+  h1 {
+    font-size: 3em;
+  }
+  
+  // Cambiar el fondo del título a un color gris claro
+  h1 {
+    background-color: #f0f0f0;
+  }
+  
+  // Agregar un borde alrededor del título
+  h1 {
+   
+    padding: 30px; // Añadir un espacio interno alrededor del título
+    align-content: center;
+    text-align: center;
+  }
+  

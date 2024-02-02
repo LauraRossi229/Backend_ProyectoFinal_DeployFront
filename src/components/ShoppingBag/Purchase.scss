@@ -1,0 +1,37 @@
+// Purchase.scss
+
+// Estilos generales
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #797f86; //
+    color: #121010;
+    border: none;
+    cursor: pointer;
+    
+  }
+  
+  // Estilos específicos para los detalles de la compra
+  .purchase-details {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa; // Gris claro de Bootstrap
+  }
+  
+  // Otros estilos específicos según tu preferencia...
+  .btn-primary {
+    color: rgb(230, 198, 80); // Cambia el color según tus preferencias
+    // Otros estilos para el botón Salir
+  }
